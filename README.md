@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BookingFlow
 
 BookingFlow is a full-stack appointment scheduling application for service businesses, with real-time availability, customer booking, staff scheduling, and admin management.
@@ -128,3 +129,6 @@ This project demonstrates full-stack application development, authentication, re
 - Replace the console notification adapter with an email provider.
 - Configure redirect URLs for authentication emails.
 - Add monitoring, retention rules, and backups appropriate to the deployment.
+=======
+# Booking_Management
+>>>>>>> cddcaa77f30e8a89d558c92ce598afd4badea34b
